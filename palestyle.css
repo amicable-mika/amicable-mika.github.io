@@ -1,21 +1,5 @@
 /* HOME ICON */
-.homeIcon-tEMBK1 path {
-  display: none;
-}
-
-}
-.homeIcon-tEMBK1 {
-	background-color: white;
-	-webkit-mask: url(https://amicable-mika.github.io/homeicon.svg);
-	-webkit-mask-size: 95%;
-	-webkit-mask-repeat: no-repeat;
-	-webkit-mask-position: center;
-	transition:250ms all ease;
-}
-
-.button-OhfaWu.selected-wSa2KV .homeIcon-tEMBK1 {
-  background-color: white; !important;
-}
+.homeLink-2NBBKi{background-image:url("https://amicable-mika.github.io/homeicon.svg")!important;background-position:center;background-size:cover;background-color:transparent!important}
 
 /* BACKGROUND IMAGE */
   .appMount-3lHmkl
